@@ -1,21 +1,23 @@
 ## Sale Courses Site Build With Bootstrap
 
+> This website was created with Bootstrap.
+
 <img src="/img/initial page.png" alt="initial page">
 
-> This website was created with Bootstrap.
+> This is the index.html page
 ### Ajustes e melhorias
 
 The project is still being developed and our next step is devep new functionalities:
 
-- [x] Task 1
-- [x] Task 2
-- [ ] Task 3
+- [x] Initial page
+- [x] Bootstrap's connection
+- [x] Pages linked between home and sales
 - [ ] Task 4
 - [ ] Task 5
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Before starting, make sure you've met the following requirements:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
@@ -73,9 +75,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="/img/sergio-cartoon.png" width="100px;" alt="Cartoon de Sergio"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Sergio Cardoso</b>
         </sub>
       </a>
     </td>
