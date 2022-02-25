@@ -12,9 +12,12 @@ The project is still being developed and our next step is devep new functionalit
 - [x] Initial page
 - [x] Bootstrap's connection
 - [x] Pages linked between home and sales
-- [ ] Task 4
-- [ ] Task 5
+- [ ] Include payment methods
+- [ ] Create User Login
 
+<img src="/img/java-course-page.png" alt="Java course page">
+
+> This is the Java Course Page
 ## 💻 Pré-requisitos
 
 Before starting, make sure you've met the following requirements:
