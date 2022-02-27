@@ -1,10 +1,23 @@
 ## Sale Courses Site Build With Bootstrap
 
-> This website was created with Bootstrap.
+> This is the index.html page
 
 <img src="/img/initial page.png" alt="initial page">
 
-> This is the index.html page
+> This is the Java Course Page
+
+<img src="/img/java-course-page.png" alt="Java course page">
+
+> This is the PhotoShop Course Page
+
+<img src="/img/ps-course-page.png" alt="Java course page">
+
+> This is the Excel Course Page
+
+<img src="/img/excel-course-page.png" alt="Java course page">
+
+
+
 ### Ajustes e melhorias
 
 The project is still being developed and our next step is devep new functionalities:
@@ -15,9 +28,7 @@ The project is still being developed and our next step is devep new functionalit
 - [ ] Include payment methods
 - [ ] Create User Login
 
-<img src="/img/java-course-page.png" alt="Java course page">
 
-> This is the Java Course Page
 ## 💻 Pré-requisitos
 
 Before starting, make sure you've met the following requirements:
