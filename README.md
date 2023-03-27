@@ -1,20 +1,22 @@
 ## Sale Courses Site Build With Bootstrap
 
-> This is the index.html page
+
 
 <img src="/img/initial page.png" alt="initial page">
 
-> This is the Java Course Page
+> This is the index.html page
 
 <img src="/img/java-course-page.png" alt="Java course page">
 
-> This is the PhotoShop Course Page
+> This is the Java Course Page
 
 <img src="/img/ps-course-page.png" alt="Java course page">
 
-> This is the Excel Course Page
+> This is the PhotoShop Course Page
 
 <img src="/img/excel-course-page.png" alt="Java course page">
+
+> This is the Excel Course Page
 
 
 
@@ -29,39 +31,8 @@ The project is still being developed and our next step is devep new functionalit
 - [ ] Create User Login
 
 
-## 💻 Pré-requisitos
 
-Before starting, make sure you've met the following requirements:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
-
-## 🚀 Instalando <nome_do_projeto>
-
-Para instalar o <nome_do_projeto>, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para <site_sale_courses_with_bootstrap>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
@@ -100,9 +71,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 ## 📝 Licença
 
