@@ -70,7 +70,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-
+## 🔗 Acesse o website
+https://sergioluiscardoso.github.io/sale-courses-site-bootstrap/
 
 ## 📝 Licença
 
@@ -78,5 +79,3 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
 
-## 🔗 Acesse o website
-https://sergioluiscardoso.github.io/sale-courses-site-bootstrap/
